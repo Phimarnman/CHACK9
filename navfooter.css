@@ -87,11 +87,18 @@ div.highlightTextIn a:before {
 .demo {
   margin: 0 auto;
   padding-top: 64px;
-  max-width: 640px;
+  max-width: 70%;
   width: 94%;
   font-family: Raleway;
 }
 
 .demo h1 {
   margin-top: 0;
+}
+
+figure{
+  text-align: right;
+  text-shadow: #555;
+  font-family: Raleway;
+  font-size: 10pt;
 }
